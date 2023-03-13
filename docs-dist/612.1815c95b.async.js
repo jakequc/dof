@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdof=self.webpackChunkdof||[]).push([[612],{33612:function(r,o,n){n.r(o),n.d(o,{Foo:function(){return s}});var c=n(50959),t=n(11527),u=function(f){return(0,t.jsx)("h4",{children:f.title})},s=u}}]);
